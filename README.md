@@ -32,10 +32,20 @@ await gamelogClean("ATHLETE_ID");               // [{ date, opponent, atVs, stat
 
 UFC is an individual sport, so `teams`, `roster` and `standings` mostly do not apply. Use `scoreboard`, `athlete`, `gamelog`, `splits`, `news`, `summary`, `odds`, and the parsed `scoreboardClean` / `gamelogClean`.
 
+## Daily data
+
+A scheduled GitHub Action runs once a day, pulls that day's UFC games from
+live ESPN, and commits them to `data/latest.json` when there are any. Off-season
+days leave the last snapshot in place, so the file is always the most recent day
+that actually had games. The same run is a canary: if ESPN changes or breaks an
+endpoint the job fails, so a red build is the early warning that the client needs
+a fix. Run it yourself with `npm run snapshot:daily`.
+
 ## Transport
 
 12 second timeout, up to 3 retries on 429 and 5xx with backoff and Retry-After.
-Real failures throw with the status and url.
+Failures throw an Error whose `.status` and `.url` are set, so you can branch on
+the HTTP status (e.g. skip a 404, back off on a 429).
 
 ## Honest notes
 
