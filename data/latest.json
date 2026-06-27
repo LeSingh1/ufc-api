@@ -1,17 +1,17 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260620",
+  "date": "20260627",
   "count": 1,
   "games": [
     {
-      "id": "600059467",
-      "name": "UFC Fight Night: Kape vs. Horiguchi",
+      "id": "600059254",
+      "name": "UFC Fight Night: Fiziev vs. Torres",
       "shortName": "UFC Fight Night",
-      "date": "2026-06-20T21:00Z",
-      "state": "pre",
-      "status": "6/20 - 5:00 PM EDT",
-      "completed": false,
+      "date": "2026-06-27T13:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": null,
       "away": null
     }
