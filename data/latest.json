@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260711",
+  "date": "20260718",
   "count": 1,
   "games": [
     {
-      "id": "600059148",
-      "name": "UFC 329: McGregor vs. Holloway 2",
-      "shortName": "UFC 329",
-      "date": "2026-07-11T21:00Z",
+      "id": "600059599",
+      "name": "UFC Fight Night: Du Plessis vs. Usman",
+      "shortName": "UFC Fight Night",
+      "date": "2026-07-18T21:00Z",
       "state": "pre",
-      "status": "7/11 - 5:00 PM EDT",
+      "status": "7/18 - 5:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
