@@ -1,17 +1,17 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260718",
+  "date": "20260725",
   "count": 1,
   "games": [
     {
-      "id": "600059599",
-      "name": "UFC Fight Night: Du Plessis vs. Usman",
+      "id": "600059667",
+      "name": "UFC Fight Night: Ankalaev vs. Guskov",
       "shortName": "UFC Fight Night",
-      "date": "2026-07-18T21:00Z",
-      "state": "pre",
-      "status": "7/18 - 5:00 PM EDT",
-      "completed": false,
+      "date": "2026-07-25T13:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": null,
       "away": null
     }
