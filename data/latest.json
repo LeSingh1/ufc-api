@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260801",
+  "date": "20260808",
   "count": 1,
   "games": [
     {
-      "id": "600059339",
-      "name": "UFC Fight Night: Medić vs. Rodriguez",
+      "id": "600060621",
+      "name": "UFC Fight Night: Gamrot vs Salkilld",
       "shortName": "UFC Fight Night",
-      "date": "2026-08-01T14:00Z",
+      "date": "2026-08-08T21:00Z",
       "state": "pre",
-      "status": "8/1 - 10:00 AM EDT",
+      "status": "8/8 - 5:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
