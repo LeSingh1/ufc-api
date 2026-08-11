@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260808",
+  "date": "20260811",
   "count": 1,
   "games": [
     {
-      "id": "600060621",
-      "name": "UFC Fight Night: Gamrot vs Salkilld",
-      "shortName": "UFC Fight Night",
-      "date": "2026-08-08T21:00Z",
+      "id": "600060732",
+      "name": "Dana White's Contender Series: Season 10, Week 1",
+      "shortName": "Dana White's Contender Series",
+      "date": "2026-08-11T23:00Z",
       "state": "pre",
-      "status": "8/8 - 5:00 PM EDT",
+      "status": "8/11 - 7:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
