@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260815",
+  "date": "20260818",
   "count": 1,
   "games": [
     {
-      "id": "600059185",
-      "name": "UFC 330: Makhachev vs. Machado Garry",
-      "shortName": "UFC 330",
-      "date": "2026-08-15T21:30Z",
+      "id": "600060733",
+      "name": "Dana White's Contender Series: Season 10, Week 2",
+      "shortName": "Dana White's Contender Series",
+      "date": "2026-08-18T23:00Z",
       "state": "pre",
-      "status": "8/15 - 5:30 PM EDT",
+      "status": "8/18 - 7:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
