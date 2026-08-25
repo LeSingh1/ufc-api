@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260822",
+  "date": "20260825",
   "count": 1,
   "games": [
     {
-      "id": "600060493",
-      "name": "UFC Fight Night: Hernandez vs. Rodrigues",
-      "shortName": "UFC Fight Night",
-      "date": "2026-08-22T21:00Z",
+      "id": "600060734",
+      "name": "Dana White's Contender Series: Season 10, Week 3",
+      "shortName": "Dana White's Contender Series",
+      "date": "2026-08-25T23:00Z",
       "state": "pre",
-      "status": "8/22 - 5:00 PM EDT",
+      "status": "8/25 - 7:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
