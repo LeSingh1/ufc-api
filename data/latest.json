@@ -1,17 +1,17 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260829",
+  "date": "20260901",
   "count": 1,
   "games": [
     {
-      "id": "600060620",
-      "name": "UFC Fight Night: Nurmagomedov vs. Song",
-      "shortName": "UFC Fight Night",
-      "date": "2026-08-29T07:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
+      "id": "600060735",
+      "name": "Dana White's Contender Series: Season 10, Week 4",
+      "shortName": "Dana White's Contender Series",
+      "date": "2026-09-01T23:00Z",
+      "state": "pre",
+      "status": "9/1 - 7:00 PM EDT",
+      "completed": false,
       "home": null,
       "away": null
     }
