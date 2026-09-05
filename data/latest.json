@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260901",
+  "date": "20260905",
   "count": 1,
   "games": [
     {
-      "id": "600060735",
-      "name": "Dana White's Contender Series: Season 10, Week 4",
-      "shortName": "Dana White's Contender Series",
-      "date": "2026-09-01T23:00Z",
+      "id": "600059993",
+      "name": "UFC Fight Night: Hooker vs. Parnasse",
+      "shortName": "UFC Fight Night",
+      "date": "2026-09-05T16:00Z",
       "state": "pre",
-      "status": "9/1 - 7:00 PM EDT",
+      "status": "9/5 - 12:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
