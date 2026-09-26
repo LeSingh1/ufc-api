@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20260922",
+  "date": "20260926",
   "count": 1,
   "games": [
     {
-      "id": "600060738",
-      "name": "Dana White's Contender Series: Season 10, Week 7",
-      "shortName": "Dana White's Contender Series",
-      "date": "2026-09-22T23:00Z",
+      "id": "600061266",
+      "name": "UFC Fight Night: Rosas Jr. vs. Barcelos",
+      "shortName": "UFC Fight Night",
+      "date": "2026-09-26T21:00Z",
       "state": "pre",
-      "status": "9/22 - 7:00 PM EDT",
+      "status": "9/26 - 5:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
