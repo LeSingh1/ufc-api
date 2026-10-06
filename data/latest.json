@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261003",
+  "date": "20261006",
   "count": 1,
   "games": [
     {
-      "id": "600061182",
-      "name": "UFC 332: Silva vs. Wang",
-      "shortName": "UFC 332",
-      "date": "2026-10-03T20:00Z",
+      "id": "600060740",
+      "name": "Dana White's Contender Series: Season 10, Week 9",
+      "shortName": "Dana White's Contender Series",
+      "date": "2026-10-06T23:00Z",
       "state": "pre",
-      "status": "10/3 - 4:00 PM EDT",
+      "status": "10/6 - 7:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
