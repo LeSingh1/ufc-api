@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261010",
+  "date": "20261013",
   "count": 1,
   "games": [
     {
-      "id": "600061541",
-      "name": "UFC Fight Night: Allen vs. Duncan",
-      "shortName": "UFC Fight Night",
-      "date": "2026-10-10T21:00Z",
+      "id": "600060741",
+      "name": "Dana White's Contender Series: Season 10, Week 10",
+      "shortName": "Dana White's Contender Series",
+      "date": "2026-10-13T23:00Z",
       "state": "pre",
-      "status": "10/10 - 5:00 PM EDT",
+      "status": "10/13 - 7:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
