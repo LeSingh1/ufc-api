@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261013",
+  "date": "20261017",
   "count": 1,
   "games": [
     {
-      "id": "600060741",
-      "name": "Dana White's Contender Series: Season 10, Week 10",
-      "shortName": "Dana White's Contender Series",
-      "date": "2026-10-13T23:00Z",
+      "id": "600060773",
+      "name": "UFC Fight Night: Buckley vs. Malott",
+      "shortName": "UFC Fight Night",
+      "date": "2026-10-17T21:00Z",
       "state": "pre",
-      "status": "10/13 - 7:00 PM EDT",
+      "status": "10/17 - 5:00 PM EDT",
       "completed": false,
       "home": null,
       "away": null
