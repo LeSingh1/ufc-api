@@ -1,17 +1,17 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261017",
+  "date": "20261024",
   "count": 1,
   "games": [
     {
-      "id": "600060773",
-      "name": "UFC Fight Night: Buckley vs. Malott",
-      "shortName": "UFC Fight Night",
-      "date": "2026-10-17T21:00Z",
-      "state": "pre",
-      "status": "10/17 - 5:00 PM EDT",
-      "completed": false,
+      "id": "600061267",
+      "name": "UFC 333: Volkanovski vs. Evloev",
+      "shortName": "UFC 333",
+      "date": "2026-10-24T14:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": null,
       "away": null
     }
