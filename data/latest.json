@@ -1,17 +1,17 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261024",
+  "date": "20261031",
   "count": 1,
   "games": [
     {
-      "id": "600061267",
-      "name": "UFC 333: Volkanovski vs. Evloev",
-      "shortName": "UFC 333",
-      "date": "2026-10-24T14:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
+      "id": "600061420",
+      "name": "UFC Fight Night: Moicano vs. Nolan",
+      "shortName": "UFC Fight Night",
+      "date": "2026-10-31T21:00Z",
+      "state": "pre",
+      "status": "10/31 - 5:00 PM EDT",
+      "completed": false,
       "home": null,
       "away": null
     }
