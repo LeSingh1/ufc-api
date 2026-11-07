@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261031",
+  "date": "20261107",
   "count": 1,
   "games": [
     {
-      "id": "600061420",
-      "name": "UFC Fight Night: Moicano vs. Nolan",
+      "id": "600061268",
+      "name": "UFC Fight Night: Cortes Acosta vs. Walker",
       "shortName": "UFC Fight Night",
-      "date": "2026-10-31T21:00Z",
+      "date": "2026-11-07T22:00Z",
       "state": "pre",
-      "status": "10/31 - 5:00 PM EDT",
+      "status": "11/7 - 5:00 PM EST",
       "completed": false,
       "home": null,
       "away": null
