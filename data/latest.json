@@ -1,16 +1,16 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261107",
+  "date": "20261114",
   "count": 1,
   "games": [
     {
-      "id": "600061268",
-      "name": "UFC Fight Night: Cortes Acosta vs. Walker",
-      "shortName": "UFC Fight Night",
-      "date": "2026-11-07T22:00Z",
+      "id": "600061400",
+      "name": "UFC 334: Gane vs. Hokit",
+      "shortName": "UFC 334",
+      "date": "2026-11-14T22:00Z",
       "state": "pre",
-      "status": "11/7 - 5:00 PM EST",
+      "status": "11/14 - 5:00 PM EST",
       "completed": false,
       "home": null,
       "away": null
