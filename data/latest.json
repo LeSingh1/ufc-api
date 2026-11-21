@@ -1,17 +1,17 @@
 {
   "sport": "mma",
   "league": "ufc",
-  "date": "20261114",
+  "date": "20261121",
   "count": 1,
   "games": [
     {
-      "id": "600061400",
-      "name": "UFC 334: Gane vs. Hokit",
-      "shortName": "UFC 334",
-      "date": "2026-11-14T22:00Z",
-      "state": "pre",
-      "status": "11/14 - 5:00 PM EST",
-      "completed": false,
+      "id": "600061665",
+      "name": "UFC Fight Night: Procházka vs. Stirling",
+      "shortName": "UFC Fight Night",
+      "date": "2026-11-21T15:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": null,
       "away": null
     }
